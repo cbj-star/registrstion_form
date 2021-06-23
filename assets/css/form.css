@@ -1,0 +1,94 @@
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: white;
+    }
+    
+    h2 {
+        text-align: left;
+        padding: 2px;
+        margin: 0 0 0 10px;
+    }
+    
+    .login {
+        width: 550px;
+        height: 1000px;
+        margin: 30px auto;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    
+    fieldset {
+        background-color: rgba(213, 255, 255, 0.911);
+        border: 1px solid rgba(188, 225, 236, 0.884);
+        box-shadow: 0 0 2px #999999;
+        margin: 2px 0 0 2px;
+    }
+    
+    .fullname {
+        width: 492px;
+        height: 20px;
+        margin: 0 0 0 10px;
+    }
+    
+    .select {
+        width: 240px;
+        height: 25px;
+        margin: 0 0 0 10px;
+    }
+    
+    .num {
+        width: 235px;
+        height: 20px;
+        margin: 0 0 0 10px;
+    }
+    
+    table {
+        width: 500px;
+    }
+    
+    .dimension {
+        width: 230px;
+        height: 20px;
+        margin: 0 0 0 10px;
+    }
+    
+    .select1 {
+        width: 157px;
+        height: 25px;
+        margin: 0 0 0 10px;
+    }
+    
+    .select2 {
+        width: 100px;
+        height: 25px;
+        margin: 0 0 0 10px;
+    }
+    
+    .code {
+        width: 105px;
+        height: 20px;
+        margin: 0 0 0 20px;
+    }
+    
+    .btn1 {
+        background-color: #273fc9;
+        border: solid 2px;
+        color: white;
+        padding: 10px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+    
+    .btn2 {
+        background-color: white;
+        border: solid 1px;
+        border-color: turquoise;
+        color: black;
+        padding: 10px 50px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+    }
